@@ -1,5 +1,5 @@
 #profile-title:CheGuevara VPN🎁
-#support-url: https://t.me/hiddifycode
+#support-url: https://t.me/stan_o4ek
 #profile-update-interval: 1
 #subscription-userinfo: expire=3384806400; total=0; used=0
 #announce:Пролетарий навсегда!⏳
@@ -18,5 +18,3 @@ vless://d74bb550-e217-4a3a-8c36-2c10fe3bab9c@62.152.59.136:43534?encryption=none
 vless://d74bb550-e217-4a3a-8c36-2c10fe3bab9c@84.201.128.246:443?encryption=none&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&pbk=egZSXaD2by245e1jxH0YFn7MaULnii4uleQlTdhu-UY&sid=0c6d7e8f&type=tcp#Белые%20списки%20(8гб/день)
 vless://d74bb550-e217-4a3a-8c36-2c10fe3bab9c@s22244.cdn.ngenix.net:443?encryption=none&security=tls&type=ws&host=s22244.cdn.ngenix.net&path=%2Fapi%2Fgzip%2Fprofile&sni=s22244.cdn.ngenix.net&fp=chrome#⚡️Белые списки (20гб/день)📱
 trojan://f7cc920f-2154-4258-b1bf-2e2f9fb9a60b@176.124.220.235:10446?type=xhttp&host=yandex.ru&path=%2Fvideo#🇫🇮%20Финляндия
-vless://f7cc920f-2154-4258-b1bf-2e2f9fb9a60b@176.124.220.235:10444?type=xhttp&security=tls&host=yandex.ru&path=%2Fvideo&fp=chrome#🇫🇮%20Финляндия2
-trojan://f7cc920f-2154-4258-b1bf-2e2f9fb9a60b@176.124.220.235:10445?type=xhttp&security=tls&host=yandex.ru&path=%2Fvideo&fp=chrome#🇫🇮Финляндия3

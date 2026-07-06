@@ -27,6 +27,4 @@ vless://9b08bee0-2615-46c6-8939-54b575517a26@213.21.222.28.speed-storage.ru:443?
 
 ## ⚡ Белые списки
 
-vless://d74bb550-e217-4a3a-8c36-2c10fe3bab9c@62.152.59.136:43534?encryption=none&security=reality&flow=&type=grpc&sni=ads.x5.ru&fp=firefox&pbk=hdivmyH44HTRsbFwN5Q5a-F5K-44WF2KEq5NWSWy7BI&serviceName=api#👍🏻 Белые списки (12гб/день)📱 #2
-vless://d74bb550-e217-4a3a-8c36-2c10fe3bab9c@84.201.128.246:443?encryption=none&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&pbk=egZSXaD2by245e1jxH0YFn7MaULnii4uleQlTdhu-UY&sid=0c6d7e8f&type=tcp#Белые%20списки%20(8гб/день)
-vless://d74bb550-e217-4a3a-8c36-2c10fe3bab9c@s22244.cdn.ngenix.net:443?encryption=none&security=tls&type=ws&host=s22244.cdn.ngenix.net&path=%2Fapi%2Fgzip%2Fprofile&sni=s22244.cdn.ngenix.net&fp=chrome#⚡️Белые списки (20гб/день)📱
+vless://5117ad77-cd9a-46e9-995b-b601b0b5e435@46.8.208.43:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=api.citydrive.ru&fp=edge&pbk=zJPh6KpkMn0rSpoIRbmypTckWen2x-r4ZN-4SCn0MkM#🇪🇺 🏳️ Списки — LTE
